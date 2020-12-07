@@ -15,7 +15,7 @@ Hi, I'm Kevin Simmons 👋
 - 👯 I’m looking to collaborate on any kind of front end project
 - 🤔 I’m looking for help with server creation & node.js
 - 💬 Ask me about anything. Always happy to help and learn more
-- ⚡ Fun fact: I collect videogames new and old as well as videogame strategy guides. Currentl interested in playstation games and playing more rpg's
+- ⚡ Fun fact: I collect videogames new and old as well as videogame strategy guides. Currently interested in playstation games and playing more rpg's
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=climbingryan&theme=onedark&show_icons=true)](https://github.com/climbingryan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climbingryan&theme=onedark)](https://github.com/climbingryan/github-readme-stats)
@@ -59,10 +59,6 @@ Hi, I'm Kevin Simmons 👋
   <!-- STACK OVERFLOW --> 
   <a href="https://stackoverflow.com/users/14024595/shaggy?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
-  <!-- SPOTIFY -->
-  <a href="https://open.spotify.com/user/chaoticnoob">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">  
   </a>
 </p>
 

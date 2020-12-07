@@ -7,7 +7,7 @@
 Hi, I'm Kevin Simmons 👋
 </h1>
 
-## I'm Currently enrolled in a fullstack bootcamp at the University of Austin 
+## I'm Currently enrolled in a fullstack bootcamp at the University of Texas at Austin 
 
 
 - 🔭 I’m currently working on an application called Zookeepr

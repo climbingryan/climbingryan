@@ -11,7 +11,7 @@ Hi, I'm Kevin Simmons 👋
 
 
 - 🔭 I’m currently working on an application called Zookeepr
-- 🌱 I’m currently learning Node.js & Horoku
+- 🌱 I’m currently learning Node.js & Heroku
 - 👯 I’m looking to collaborate on any kind of front end project
 - 🤔 I’m looking for help with server creation & node.js
 - 💬 Ask me about anything. Always happy to help and learn more
@@ -32,12 +32,24 @@ Hi, I'm Kevin Simmons 👋
 
 ## Where To Reach Me
 <p align="center">
-  <!-- GMAIL -->    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <!-- LINKEDIN --> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <!-- GMAIL -->    
+  <a href="mailto: simmons5family@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <!-- LINKEDIN --> 
+  <a href="https://www.linkedin.com/in/kevin-simmons-3b88bb1b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ## Follow Me on These Platforms
 <p align="center">
-  <!-- GITHUB -->         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
-  <!-- STACK OVERFLOW --> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <!-- GITHUB -->         
+  <a href="https://github.com/climbingryan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
+  </a>
+  <!-- STACK OVERFLOW --> 
+  <a href="https://stackoverflow.com/users/14024595/shaggy?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
 </p>

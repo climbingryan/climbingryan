@@ -13,7 +13,6 @@ Hi, I'm Kevin Simmons 👋
 - 🔭 I’m working on an application called Zookeepr
 - 🌱 I’m learning Node.js & Heroku
 - 👯 I’m looking to collaborate on any kind of front end project
-- 🤔 I’m looking for help with server creation & node.js
 - 💬 Ask me about anything. Always happy to help and learn more
 - ⚡ Fun fact: I collect videogames new and old as well as videogame strategy guides. Currently interested in playstation games and playing more rpg's
 

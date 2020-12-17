@@ -44,7 +44,7 @@ Hi, I'm Kevin Simmons 👋
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <!-- LINKEDIN --> 
-  <a href="https://www.linkedin.com/in/kevin-simmons-3b88bb1b3/">
+  <a target="none" href="https://www.linkedin.com/in/kevin-simmons-3b88bb1b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -52,11 +52,11 @@ Hi, I'm Kevin Simmons 👋
 ## Follow Me on These Platforms
 <p align="center">
   <!-- GITHUB -->         
-  <a href="https://github.com/climbingryan">
+  <a target="none" href="https://github.com/climbingryan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
   </a>
   <!-- STACK OVERFLOW --> 
-  <a href="https://stackoverflow.com/users/14024595/shaggy?tab=profile">
+  <a target="none" href="https://stackoverflow.com/users/14024595/shaggy?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
 </p>

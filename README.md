@@ -10,8 +10,8 @@ Hi, I'm Kevin Simmons 👋
 ## I'm Currently enrolled in a fullstack bootcamp at the University of Texas at Austin 
 
 
-- 🔭 I’m working on an application called just-tech-news
-- 🌱 I’m learning sequilize
+- 🔭 I’m working on an application called Hourly
+- 🌱 I’m solidifying my full-atack-skills
 - 👯 I’m looking to collaborate on any kind of front end project
 - 💬 Ask me about anything. Always happy to help and learn more
 - ⚡ Fun fact: I collect videogames new and old as well as videogame strategy guides. Currently interested in playstation games and playing more rpg's

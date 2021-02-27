@@ -10,7 +10,7 @@ Hi, I'm Kevin Simmons 👋
 ## I'm Currently enrolled in a fullstack bootcamp at the University of Texas at Austin 
 
 
-- 🔭 I’m working on an application called Social-Network API
+- 🔭 I’m working on an application called collectors-haven
 - 🌱 I’m solidifying my MongoDb skills
 - 👯 I’m looking to collaborate on any kind of front end project
 - 💬 Ask me about anything. Always happy to help and learn more

@@ -2,7 +2,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=climbingryan&repo=Read-Me-Challenge)](https://github.com/climbingryan/Read-Me-Challenge)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=climbingryan&repo=password-Generator-Challenge)](https://github.com/climbingryan/password-Generator-Challenge)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=climbingryan&repo=Social-Network-API)](https://github.com/climbingryan/Social-Network-API)
 <h1 align="center">
 Hi, I'm Kevin Simmons 👋
 </h1>

@@ -10,11 +10,11 @@ Hi, I'm Kevin Simmons 👋
 ## I'm Currently enrolled in a fullstack bootcamp at the University of Texas at Austin 
 
 
-- 🔭 I’m working on an application called collectors-haven
-- 🌱 I’m solidifying my MongoDb skills
+- 🔭 I’m working on my portfolio
+- 🌱 I’m solidifying my React skills
 - 👯 I’m looking to collaborate on any kind of front end project
 - 💬 Ask me about anything. Always happy to help and learn more
-- ⚡ Fun fact: I collect videogames new and old as well as videogame strategy guides. Currently interested in playstation games and playing more rpg's
+- ⚡ Fun fact: I collect videogames new and old as well as videogame strategy guides. Currently interested in big box pc games
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=climbingryan&theme=onedark&show_icons=true)](https://github.com/climbingryan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=climbingryan&theme=onedark)](https://github.com/climbingryan/github-readme-stats)

@@ -11,6 +11,7 @@ Hi, I'm Kevin Simmons 👋
 
 
 - 🔭 I’m working on my knowledge of blockchain technology
+-   More specifically interested in Eth and smart contracts, as well as the basis of bitcoin
 - 🌱 I’m solidifying ^^^
 - 👯 I’m looking to collaborate on any kind of front end project
 - 💬 Ask me about anything. Always happy to help and learn more

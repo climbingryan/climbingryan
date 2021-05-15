@@ -7,11 +7,11 @@
 Hi, I'm Kevin Simmons 👋
 </h1>
 
-## I'm Currently enrolled in a fullstack bootcamp at the University of Texas at Austin 
+## I'm a current graduate from the UT coding bootcamp
 
 
-- 🔭 I’m working on my portfolio
-- 🌱 I’m solidifying my React skills
+- 🔭 I’m working on my knowledge of blockchain technology
+- 🌱 I’m solidifying ^^^
 - 👯 I’m looking to collaborate on any kind of front end project
 - 💬 Ask me about anything. Always happy to help and learn more
 - ⚡ Fun fact: I collect videogames, and other collectibles

@@ -7,7 +7,7 @@
 Hi, I'm Kevin Simmons 👋
 </h1>
 
-## I'm a current graduate from the UT coding bootcamp
+## I'm a graduate from the UT coding bootcamp
 
 
 - 🔭 I’m working on my knowledge of blockchain technology

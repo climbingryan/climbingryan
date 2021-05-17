@@ -14,7 +14,7 @@ Hi, I'm Kevin Simmons 👋
 -   More specifically interested in Eth and smart contracts, as well as the basis of bitcoin
 - 🌱 I’m solidifying ^^^
 - 👯 I’m looking to collaborate on any kind of front end project
-- 💬 Ask me about anything. Always happy to help and learn more
+- 💬 Ask me about blockchain IoT
 - ⚡ Fun fact: I collect videogames, and other collectibles
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=climbingryan&theme=onedark&show_icons=true)](https://github.com/climbingryan/github-readme-stats)
